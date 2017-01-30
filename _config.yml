@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title: Site Title
+title: Study Camp
 locale: en_US
-description: Describe your website here.
+description: Community-driven competency based learning for career development in the software industry
 logo: site-logo.png
 search: true
-url: http://localhost:4000
+url: https://study-camp.github.io/
 
 # Jekyll configuration
 
