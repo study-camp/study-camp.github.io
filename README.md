@@ -1,28 +1,31 @@
-# So Simple Theme
+# Study Camp
 
-Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the followup to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes/) -- by designer slash illustrator [Michael Rose](http://mademistakes.com).
+This is the website and blog for a new initiative to support community-based competency-driven learning for career development in the software industry. It is inspired by the successes of my prior work with Google Developer Groups, running the _Android Study Jam_, _Android Camp_ and _Machine Learning Study Camp_ events in the past two years.
 
-## Notable features:
+## Topics
 
-* Compatible with Jekyll 3 and GitHub Pages.
-* Responsive templates. Looks good on mobile, tablet, and desktop devices.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 9+ and all modern browsers.
-* Minimal embellishments and subtle animations.
-* Optional large feature images for posts and pages.
-* [Custom 404 page](http://mmistakes.github.io/so-simple-theme/404.html) to get you started.
-* Basic [search capabilities](https://github.com/mathaywarduk/jekyll-search)
-* Support for Disqus Comments
+The website will be updated with more topics in time. The following reflect my current interests, so expect articles or complete study-camp guides around the following topics:
 
-![screenshot of So Simple Theme](http://mmistakes.github.io/so-simple-theme/images/so-simple-theme-preview.jpg)
+ * Firebase
+ * Progressive Web Apps
+ * Python
+ * Machine Learning
+ * Deep Learning
 
-See a [live version of So Simple](http://mmistakes.github.io/so-simple-theme/) hosted on GitHub.
 
----
 
-## Getting Started
+## Theme & Process
 
-So Simple takes advantage of Sass and data files to make customizing easier and requires Jekyll 3.x.
+The website and blog is based on the excellent [So Simple](https://mmistakes.github.io/so-simple-theme/) theme from [Michael Rose](https://github.com/mmistakes) (@mmistakes).
 
-To learn how to install and use this theme check out the [Setup Guide](http://mmistakes.github.io/so-simple-theme/theme-setup/) for more information.
+I am by no means a Jekyll expert but my goal was to get a static, responsive website running using GitHub pages, with the ability to support blog posts, search and simple navigation. This is one of the featured [free themes](https://jekyllthemes.io/#free) that I personally loved. 
 
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/mmistakes/so-simple-theme/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+A core tenet of Study Camps is that you always learn a technology or concept better by using it and applying it in real projects. In some sense, this blog is a perfect example of that. By using it frequently, I also hope to improve my own understanding of [Jekyll](https://jekyllrb.com/) and its related usage of [Markdown](https://daringfireball.net/projects/markdown/) and [Liquid](https://github.com/Shopify/liquid/wiki) templating markup.
+
+To learn more about the _So Simple_ template, read [the theme's README](README.theme.md)
+
+To update blog posts or content
+ * follow the [theme setup](https://mmistakes.github.io/so-simple-theme/theme-setup/) guidelines
+ * use ```bundle exec jekyll build``` to create the *_site* directory that contains the static build for the site. Then use ```bundle exec jekyll serve``` to serve that locally (e.g., for debugging)
+ * to have this hosted on GitHub, simply commit changes to the content to a repository that is appropriate for a GitHub Pages endpoint. The build/serve process is transparent to you. GitHub simply rebuilds and deploys the site on each commit (once the *_config.yml* details are updated) 
+ * simply commit changes to GitHub to have that site now hosted at the appropriate _gh-pages_ site.
