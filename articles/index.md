@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sample Articles
+title: Recent Articles
 excerpt: "Archive of articles sorted by date."
 search_omit: true
 image:
