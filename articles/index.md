@@ -3,6 +3,10 @@ layout: page
 title: Sample Articles
 excerpt: "Archive of articles sorted by date."
 search_omit: true
+image:
+  feature: article-climb.png
+  credit: Unsplash
+  creditlink: https://unsplash.com/search/climb?photo=Lu2pfy_8VKg
 ---
 
 <ul class="post-list">
