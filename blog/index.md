@@ -3,6 +3,8 @@ layout: page
 title: Blog
 excerpt: "Archive of blog posts sorted by date"
 search_omit: true
+image:
+  feature: sample-7.jpg
 ---
 
 <ul class="post-list">

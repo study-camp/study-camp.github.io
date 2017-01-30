@@ -5,7 +5,7 @@ date:
 modified:
 excerpt:
 image:
-  feature:
+  feature: sample-5.jpg
 search_omit: true
 sitemap: false
 ---
