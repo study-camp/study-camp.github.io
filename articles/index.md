@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Recent Articles
-excerpt: "Archive of articles sorted by date."
+title: Articles
+excerpt: "Archive of articles. Focus is on development."
 search_omit: true
 image:
   feature: article-climb.png

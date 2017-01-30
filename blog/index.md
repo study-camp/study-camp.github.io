@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Blog
-excerpt: "Archive of blog posts sorted by date"
+excerpt: "Archive of blog posts. Focus is on awareness."
 search_omit: true
 image:
   feature: sample-7.jpg
