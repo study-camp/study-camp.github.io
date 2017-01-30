@@ -4,7 +4,7 @@ title: About Study Camp
 excerpt: "What is Study Camp? Who is it for and how can you get involved?"
 modified: 2014-08-08T19:44:38.564948-04:00
 image:
-  feature: adventure-begins.jpg
+  feature: adventure-begins.png
   credit: Unsplash
   creditlink: https://unsplash.com/photos/88HN85BJbq4
 ---
