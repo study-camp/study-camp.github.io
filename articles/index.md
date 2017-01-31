@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Articles
-excerpt: "Archive of articles. Focus is on development."
+excerpt: "Articles focused on software development and best practices"
 search_omit: true
 image:
   feature: article-climb.png
