@@ -12,20 +12,11 @@ comments: false
 share: true
 ---
 
->  Interested in joining a Firebase Study Camp in the Greater Albany area? 
->  Sign up here: (Firebase Camp)[http://bit.ly/firebase-camp-2017]
+Looking to learn about Firebase? Here is the proposed curriculum for an upcoming Firebase Camp series. 
 
-Looking to learn about Firebase? You've come to the right place. 
+_Objective_: Get a basic understanding of what Firebase is, and learn how to develop and deploy a real-time reactive application for modern users, on web and mobile platforms.
 
-**Objective**
-```
-Get a basic understanding of what Firebase is, and learn how to develop and deploy a real-time reactive application for modern users, on web and mobile platforms.
-```
-
-**Plan** 
-```
-This is the proposed agenda for a multi-week study camp on Firebase. My hope is to build the materials for these topics over the next few weeks, so check back for updated links on each segment.
-```
+_Want to be notified when Firebase Camp is scheduled? (Sign up here)[http://bit.ly/firebase-camp-2017]_
 
 
 ## 1. Introductory Firebase 
@@ -47,9 +38,6 @@ This is the proposed agenda for a multi-week study camp on Firebase. My hope is 
 6. Data Modeling 
 
 
-
-
-
 ## 2. Advanced Firebase
 
 #### 2.1 Full-Stack With React
@@ -67,7 +55,6 @@ This is the proposed agenda for a multi-week study camp on Firebase. My hope is 
 3. Using Firebase with Android (bonus features)
 4. Auto-capture with Firebase Analytics
 5. Rapid prototyping with [Firebase UI](https://github.com/firebase/FirebaseUI-Android)
-
 
 
 
