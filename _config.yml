@@ -39,7 +39,7 @@ owner:
   name: Nitya Narasimhan
   avatar: nitya.jpg
   email: contact@study.camp
-  disqus-shortname:
+  disqus-shortname: https-study-camp
   twitter: nitya
   facebook: #username
   github: nitya
@@ -52,8 +52,8 @@ owner:
   weibo: #userid
   google:
     plus: NityaNarasimhan
-    analytics:
-    verify:
+    analytics: UA-91160647-1
+    verify: <meta name="google-site-verification" content="9zgUBnLGx_qeLXUT1kzsI86_ROXYhXRLjWQhgJ0q2uE" />
     ad-client:
     ad-slot:
   bing-verify:
