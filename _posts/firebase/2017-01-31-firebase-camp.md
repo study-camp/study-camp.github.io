@@ -12,11 +12,12 @@ comments: false
 share: true
 ---
 
-Looking to learn about Firebase? Here is the proposed curriculum for an upcoming Firebase Camp series. 
+This is the broad scope of topics related to Firebase Development. The first Firebase Camp will likely cover only a subset of these (e.g., Introductory Firebase) with others being scheduled on demand.
 
-_Objective_: Get a basic understanding of what Firebase is, and learn how to develop and deploy a real-time reactive application for modern users, on web and mobile platforms.
+ * _Objective_. Get a basic understanding of what Firebase is, and learn how to develop and deploy a real-time reactive application for modern users, on web and mobile platforms.
 
-_Want to be notified when Firebase Camp is scheduled? (Sign up here)[http://bit.ly/firebase-camp-2017]_
+ * _Registration_. Want to be notified when Firebase Camp is scheduled? [Sign up here](http://bit.ly/firebase-camp-2017)
+
 
 
 ## 1. Introductory Firebase 
