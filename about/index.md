@@ -9,19 +9,23 @@ image:
   creditlink: https://unsplash.com/photos/88HN85BJbq4
 ---
 
-Study Camp is an initiative to support community-based competency-driven learning with a focus on career development. 
+Software is eating the world. Whether you're simply curious to learn a new technology, or want to pursue career advancement in the software industry, this is for you.
 
-Whether you are a software professional trying to learn a new or emerging technology, or an absolute beginner looking to explore a career in software development -- this is for you.
+With Study Camp, the focus is on competency-based training. Learning about tools and technology that have immediate relevance and value to jobs and career advancement.
+
+With Study Camp, the focus is on collaborative learning. We all struggle to find time to learn things on our own. But we may not have the resources or the flexibility to take on immersive learning options like bootcamps or college. The study group format provides the community benefits of a meetup (share insights, socialize) and the accountability of a bootcamp (regular check-in to keep you motivated).
+
+With Study Camp, the focus is on community. Learning with others is more fun. And, it could lead to collaborative and entrepreneurial outcomes. At the very least, you will have a better understanding of the technology and its uses.
 
 
-### What is the goal?
+### Study Camp Goals
 
 The main goal is to learn new technologies as a group, working in multi-week _sprints_ that focus either on completing a specific course, or working on a related project that provides applied understanding of the concepts.
 
 The Study Camp will consist of in-person events (1-day workshops or a series of meetups) that is scheduled according to a specific roadmap for that technology. This website serves primarily to provide supplementary resources and articles for both group participants and those studying independently.
 
 
-### What technologies will be covered?
+### Study Camp Topics
 
 The long-term goal is to focus on the technologies listed below.
 
