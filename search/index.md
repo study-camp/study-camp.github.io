@@ -29,3 +29,21 @@ sitemap: false
     <a href="##Url##">##Title## <span class="excerpt">##Excerpt##</span></a>
   </article></li>
 </script>
+
+<!-- Google Custom Search -->
+<div class="google-search">
+    <script>
+      (function() {
+        var cx = '004819956076826637009:cwvvze627bq';
+        var gcse = document.createElement('script');
+        gcse.type = 'text/javascript';
+        gcse.async = true;
+        gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(gcse, s);
+      })();
+    </script>
+
+    <!-- Google Custom Search: Results -->
+    <gcse:search></gcse:search>
+</div>
