@@ -12,31 +12,32 @@ comments: false
 share: true
 ---
 
-<div class="banner">
-    <p>
-    Interested in joining a Firebase Study Camp in the Greater Albany area? 
-    Sign up here: [Firebase Camp 2017](http://bit.ly/firebase-camp-2017)
-    </p>
-</div>
-
-
-## Introductory Firebase 
+>  Interested in joining a Firebase Study Camp in the Greater Albany area? 
+>  Sign up here: (Firebase Camp)[http://bit.ly/firebase-camp-2017]
 
 Looking to learn about Firebase? You've come to the right place. 
 
-**Objective**: Get a basic understanding of what Firebase is, and learn how to develop and deploy a real-time reactive application for modern users, on web and mobile platforms.
+**Objective**
+```
+Get a basic understanding of what Firebase is, and learn how to develop and deploy a real-time reactive application for modern users, on web and mobile platforms.
+```
 
-**Plan** This is the proposed agenda for a multi-week study camp on Firebase. My hope is to build the materials for these topics over the next few weeks, so check back for updated links on each segment.
+**Plan** 
+```
+This is the proposed agenda for a multi-week study camp on Firebase. My hope is to build the materials for these topics over the next few weeks, so check back for updated links on each segment.
+```
 
 
-#### Setup
+## 1. Introductory Firebase 
+
+#### 1.1 Setup
 
 1. What is Firebase?
 2. Getting Started
 3. Firebase Console (back-end)
 4. Firebase CLI (front-end)
 
-#### Development
+#### 1.2 Development
 
 1. Real-Time Database
 2. Application Hosting
@@ -49,9 +50,9 @@ Looking to learn about Firebase? You've come to the right place.
 
 
 
-## Advanced Firebase
+## 2. Advanced Firebase
 
-#### Full-Stack With React
+#### 2.1 Full-Stack With React
 
 1. What is React?
 2. Getting Started (*create_react_app*)
@@ -59,7 +60,7 @@ Looking to learn about Firebase? You've come to the right place.
 3. Auto-sync with [React-Fire](https://github.com/firebase/reactfire) 
 4. Rapid prototyping with [Material UI](http://www.material-ui.com/#/)
 
-#### Mobile with Android
+#### 2.2 Mobile with Android
 
 1. What is Android?
 2. Getting Started (*Android Studio*)
@@ -70,9 +71,9 @@ Looking to learn about Firebase? You've come to the right place.
 
 
 
-## Supercharged Firebase
+## 3. Supercharged Firebase
 
-#### User Analytics
+#### 3.1 User Analytics
 
 1. What is Analytics?
 2. Events & User Properties
@@ -81,8 +82,8 @@ Looking to learn about Firebase? You've come to the right place.
 5. Inspect data with Firebase Dashboard
 6. Analyze data with BigQuery
 
-#### Growth & Engagement
+#### 3,2 Growth & Engagement
 
-#### Ads & Monetization
+#### 3.3 Ads & Monetization
 
 
