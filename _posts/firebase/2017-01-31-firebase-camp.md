@@ -12,15 +12,17 @@ comments: false
 share: true
 ---
 
-Looking to learn about Firebase? You've come to the right place. 
-
-I'll update this page with links to an upcoming series of articles on Firebase, that will take you from basic understanding, to developing and deploying a full-stack app.
-
 > Interested in joining a Firebase Study Camp in the Greater Albany area? Sign up here: [Firebase Camp 2017](http://bit.ly/firebase-camp-2017)
 
 
-
 ## Introductory Firebase 
+
+Looking to learn about Firebase? You've come to the right place. 
+
+**Objective**: Get a basic understanding of what Firebase is, and learn how to develop and deploy a real-time reactive application for modern users, on web and mobile platforms.
+
+**Plan** This is the proposed agenda for a multi-week study camp on Firebase. My hope is to build the materials for these topics over the next few weeks, so check back for updated links on each segment.
+
 
 #### Setup
 

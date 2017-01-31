@@ -4,7 +4,7 @@ title: Firebase
 excerpt: "From foundations to full-stack & mobile apps"
 modified: 2017-01-30T15:00:00.000000-05:00
 image:
-  feature: firebase-mountain.png
+  feature: color-yellow.png
   credit: Unsplash
   creditlink: https://unsplash.com/search/mountain?photo=x2Miv4owGEM
 ---
