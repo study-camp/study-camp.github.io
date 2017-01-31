@@ -12,7 +12,12 @@ comments: false
 share: true
 ---
 
-> Interested in joining a Firebase Study Camp in the Greater Albany area? Sign up here: [Firebase Camp 2017](http://bit.ly/firebase-camp-2017)
+<div class="banner">
+    <p>
+    Interested in joining a Firebase Study Camp in the Greater Albany area? 
+    Sign up here: [Firebase Camp 2017](http://bit.ly/firebase-camp-2017)
+    </p>
+</div>
 
 
 ## Introductory Firebase 
