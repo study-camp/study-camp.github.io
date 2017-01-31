@@ -12,5 +12,8 @@
 - title: Search
   url: /search/
 
+- title: Archives
+  url: /tags/
+
 - title: About
   url: /about/
