@@ -1,19 +1,19 @@
 # Site navigation links
 
-- title: Articles
-  url: /articles/
+- title: About
+  url: /about/
+
+- title: Firebase
+  url: /firebase/
 
 - title: Blog
   url: /blog/
 
-- title: Firebase
-  url: /firebase/
+- title: Articles
+  url: /articles/
 
 - title: Search
   url: /search/
 
 - title: Archives
   url: /tags/
-
-- title: About
-  url: /about/
