@@ -6,7 +6,10 @@ categories: articles
 tags: [sample-post, video]
 comments: true
 share: true
-modified: 2016-06-01T14:18:26-04:00
+image:
+  feature: color-niagara.png
+  credit: Placehold.it
+  creditlink: https://placehold.it/
 ---
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/pdSp4Y4GOQs" frameborder="0"> </iframe>
