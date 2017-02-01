@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Firebase Camp
+title: Firebase Topics
 excerpt: "Planning for Firebase Study Camp 2017"
 categories: firebase
 tags: [firebase, analytics, mobile, web]

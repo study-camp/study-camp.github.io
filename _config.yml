@@ -5,7 +5,7 @@ locale: en_US
 description: Software & career development through community-based, competency-driven learning.
 logo: site-logo-new.png
 search: true
-url: http://study-camp.github.io
+url: http://study.camp
 
 # Jekyll configuration
 
