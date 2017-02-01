@@ -5,7 +5,7 @@ date:
 modified:
 excerpt:
 image:
-  feature: color-dogwood.png
+  feature: color-lapis.png
 search_omit: true
 sitemap: false
 ---
