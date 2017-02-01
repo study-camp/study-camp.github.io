@@ -3,6 +3,10 @@ layout: page
 title: Archive
 excerpt: "Archive of posts, grouped by tag"
 search_omit: true
+image:
+  feature: article-climb.png
+  credit: Unsplash
+  creditlink: https://unsplash.com/search/climb?photo=Lu2pfy_8VKg
 ---
 
 {% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}

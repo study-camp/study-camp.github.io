@@ -1,15 +1,14 @@
 ---
 layout: page
-title: Firebase
-excerpt: "From foundations to full-stack & mobile apps"
-modified: 2017-01-30T15:00:00.000000-05:00
+title: Machine Learning & AI
+excerpt: "Machine Learning, Deep Learning & Beyond"
+search_omit: true
 image:
-  feature: color-yellow.png
+  feature: color-flame.png
 ---
 
-
 <ul class="post-list">
-{% for post in site.categories.firebase %} 
+{% for post in site.categories.machinelearning %} 
   <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once }}</span>{% endif %}</a></article></li>
 {% endfor %}
 </ul>

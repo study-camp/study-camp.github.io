@@ -3,14 +3,20 @@
 - title: About
   url: /about/
 
-- title: Firebase
-  url: /firebase/
-
 - title: Blog
   url: /blog/
 
-- title: Articles
-  url: /articles/
+- title: Firebase
+  url: /firebase/
+
+- title: Mobile & Web
+  url: /mobileweb/
+
+- title: Machine Learning
+  url: /machinelearning/
+
+- title: Internet Of Things
+  url: /iot/
 
 - title: Search
   url: /search/
