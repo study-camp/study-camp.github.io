@@ -29,7 +29,7 @@ So in 2017, I am challenging myself to take on and finish the [Deep Learning](ht
 ![Siraj Raval's Deep Learning NDFP](http://1onjea25cyhx3uvxgs4vu325.wpengine.netdna-cdn.com/wp-content/uploads/2017/01/blog-1-768x403.jpg)
 {: .pull-right}
 
-I've been a fan of <a href="https://twitter.com/sirajology" class="btn">Siraj Raval</a> ever since I discovered his entertaining and educational <a href="https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A/playlists" class="btn">playlists</a> on a variety of topics related to machine learning, deep learning and TensorFlow. And while the foundations builds on those, it basically provides clear projects that I hope will provide hands-on experience with some of the more interesting ideas. 
+I've been a fan of [Siraj Raval]("https://twitter.com/sirajology") ever since I discovered his entertaining and educational [playlists]("https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A/playlists) on a variety of topics related to machine learning, deep learning and TensorFlow. And while the foundations builds on those, it basically provides clear projects that I hope will provide hands-on experience with some of the more interesting ideas. 
 
 If you have an interest in this, I hugely recommend you follow Siraj on Twitter and subscribe to hsi channel on YouTube!
 
@@ -46,7 +46,7 @@ This blog post is about accountability. I start the program today. My hope is to
 
 ### DLNFP Syllabus
 
-The Udacity folks have a great <a href="https://medium.com/udacity/deep-learning-nanodegree-foundation-program-syllabus-in-depth-2eb19d014533#.r0kddcn69" class="btn">blog post</a> that details the syllabus. Enrollment is closed for the first session, but I believe you can enroll now to join future cohorts.
+The Udacity folks have a great [blog post](https://medium.com/udacity/deep-learning-nanodegree-foundation-program-syllabus-in-depth-2eb19d014533#.r0kddcn69) that details the syllabus. Enrollment is closed for the first session, but I believe you can enroll now to join future cohorts.
 
 It's a 17-week program -- though you can finish at your own pace. I'll list the topics here so that I can subsequently link to my blog post or article about that week's content, as I go through the course.
     
