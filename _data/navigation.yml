@@ -3,8 +3,8 @@
 - title: About
   url: /about/
 
-- title: Blog
-  url: /blog/
+- title: Events
+  url: /events/
 
 - title: Firebase
   url: /firebase/
@@ -15,7 +15,7 @@
 - title: Machine Learning
   url: /machinelearning/
 
-- title: Internet Of Things
+- title: IoT
   url: /iot/
 
 - title: Search

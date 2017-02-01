@@ -3,9 +3,9 @@ layout: post
 title: "Starting my Deep Learning Climb"
 author: nitya_n
 modified:
-categories: blog
+categories: machinelearning
 excerpt:
-tags: [firebase, analytics, mobile, web]
+tags: [machine learning, deep learning, tensor flow, nanodegree]
 image:
   feature: color-flame.png
 comments: true

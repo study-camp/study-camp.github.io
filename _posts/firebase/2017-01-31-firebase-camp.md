@@ -3,11 +3,9 @@ layout: post
 title: Firebase Camp
 excerpt: "Planning for Firebase Study Camp 2017"
 categories: firebase
-tags: [firebase, analytics, android, web, development]
+tags: [firebase, analytics, mobile, web]
 image:
   feature: color-yellow.png
-  credit: Unsplash
-  creditlink: https://unsplash.com/search/mountain?photo=x2Miv4owGEM
 comments: false
 share: true
 ---
