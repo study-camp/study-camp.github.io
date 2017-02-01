@@ -11,11 +11,11 @@ image:
 
 Software is eating the world. Whether you're simply curious to learn a new technology, or want to pursue career advancement in the software industry, this is for you.
 
-With Study Camp, the focus is on competency-based training. Learning about tools and technology that have immediate relevance and value to jobs and career advancement.
+With Study Camp, the focus is on _competency-based training_. Learning about tools and technology that have immediate relevance and value to jobs and career advancement.
 
-With Study Camp, the focus is on collaborative learning. We all struggle to find time to learn things on our own. But we may not have the resources or the flexibility to take on immersive learning options like bootcamps or college. The study group format provides the community benefits of a meetup (share insights, socialize) and the accountability of a bootcamp (regular check-in to keep you motivated).
+With Study Camp, the focus is on _collaborative learning_. We all struggle to find time to learn things on our own. But we may not have the resources or the flexibility to take on immersive learning options like bootcamps or college. The study group format provides the community benefits of a meetup (share insights, socialize) and the accountability of a bootcamp (regular check-in to keep you motivated).
 
-With Study Camp, the focus is on community. Learning with others is more fun. And, it could lead to collaborative and entrepreneurial outcomes. At the very least, you will have a better understanding of the technology and its uses.
+With Study Camp, the focus is on _community_. Learning with others is more fun. And, it could lead to collaborative and entrepreneurial outcomes. At the very least, you will have increased your understanding of technology and broadened your circle of friends.
 
 
 ### Study Camp Goals
