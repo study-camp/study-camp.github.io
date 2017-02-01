@@ -4,7 +4,7 @@ title: Blog
 excerpt: "Archive of blog posts. Focus is on awareness."
 search_omit: true
 image:
-  feature: color-niagara.png
+  feature: color-pink.png
 ---
 
 <ul class="post-list">

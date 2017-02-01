@@ -4,7 +4,7 @@ title: Mobile & Web
 excerpt: "Articles covering Android, Progressive Web Apps, Web Components & more"
 search_omit: true
 image:
-  feature: color-lapis.png
+  feature: color-niagara.png
 ---
 
 <ul class="post-list">
