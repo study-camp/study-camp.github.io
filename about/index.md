@@ -9,25 +9,31 @@ image:
   creditlink: https://unsplash.com/photos/88HN85BJbq4
 ---
 
-Software is eating the world. Whether you're simply curious to learn a new technology, or want to pursue career advancement in the software industry, this is for you.
-
-With Study Camp, the focus is on _competency-based training_. Learning about tools and technology that have immediate relevance and value to jobs and career advancement.
-
-With Study Camp, the focus is on _collaborative learning_. We all struggle to find time to learn things on our own. But we may not have the resources or the flexibility to take on immersive learning options like bootcamps or college. The study group format provides the community benefits of a meetup (share insights, socialize) and the accountability of a bootcamp (regular check-in to keep you motivated).
-
-With Study Camp, the focus is on _community_. Learning with others is more fun. And, it could lead to collaborative and entrepreneurial outcomes. At the very least, you will have increased your understanding of technology and broadened your circle of friends.
+Software is eating the world. Whether you're simply curious to learn a new technology, or want to pursue career advancement in the software industry, it is important to remain aware of the latest technology advancements and tools.
 
 
-### Study Camp Goals
+## What is Study Camp?
 
-The main goal is to learn new technologies as a group, working in multi-week _sprints_ that focus either on completing a specific course, or working on a related project that provides applied understanding of the concepts.
+The goal of Study Camp is to create a _community-based_ initiative to provide _competency-based_ training for curious enthusiasts and developers alike. 
 
-The Study Camp will consist of in-person events (1-day workshops or a series of meetups) that is scheduled according to a specific roadmap for that technology. This website serves primarily to provide supplementary resources and articles for both group participants and those studying independently.
+At a high level, the focus is on picking a technology or feature, and creating a multi-week schedule and milestones for a study group where members can gain competency on that topic. 
+
+The emphasis is on _collaborative_ learning that combines the flexibility and low-costs of independent study with the accountability and support system of colleges and bootcamps. 
+
+Study Camp was inspired by my previous experiences running the [Android Study Jam](http://developerstudyjams.com) at [Google Developer Group Hudson Valley](http://meetup.com/gdg-hudson-valley) in 2015 and 2016. 
+
+My biggest takeaways are these: 
+
+ * anyone can learn anything if they set their mind to it
+ * having a diverse group (with both experts and beginners) is key to creating an inclusive, no-judgement study group that couples empathy with expertise
+ * even experts benefit - teaching someone a technology is often the best way to clarify (and enhance) your own understanding of it.
+ * deadlines are important but not unique - deadlines drive progress, but its okay for different individuals to set different goals as long as they show consistent progress and gain a better understanding of the content.
+ * having both Slack (online) and Meetup (in-person) options for regular meetings and discussions provides flexibility (e.g., for full-time workers or remote members) and also anonymity (e.g., removes the fear of being judged or standing out in public, particularly when you are a beginner or minority)
 
 
-### Study Camp Topics
+### What technologies are you talking about?
 
-The long-term goal is to focus on the technologies listed below.
+I hope to create camps around the following technologies in due course. In my opinion, these will provide the kind of technology understanding and software development skills that will be in demand for the next few years.
 
  * Firebase for real-time apps with Web, [Android](https://www.udacity.com/course/firebase-in-a-weekend-by-google-android--ud0352) or [iOS](https://www.udacity.com/course/firebase-in-a-weekend-by-google-ios--ud0351)
  * [Machine Learning](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009) from Python development to data science & neural networks.
@@ -36,5 +42,12 @@ The long-term goal is to focus on the technologies listed below.
  * Internet of Things
  * Android from [Basics](https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803) to [Developer](https://www.udacity.com/course/android-developer-nanodegree-by-google--nd801) 
 
-The goal is to create materials and schedule at least one Study Camp each quarter. In the short term, the focus will be on a series of one or more Study Camps focused on [Firebase](http://study.camp/firebase/firebase-camp/)
+
+### What is this website for?
+
+As a lifelong learner, I find that I gain expertise on a technology when I do two things: (a) build concrete projects for real-world use, and (b) teach others to do the same.
+
+With this website, I hope to translate my "learning" process into a "sharing" one by posting articles and blog posts that relate to the above topics. My hope is to captures these in meaningful "Trails" that can then be converted into resources for future study camp sessions.
+
+More importantly though, I view it as a way to capture popular questions or challenges in various technologies, and create an FAQ around them based on my own exploration of those ideas.
 

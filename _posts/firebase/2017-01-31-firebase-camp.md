@@ -12,11 +12,13 @@ comments: false
 share: true
 ---
 
-This is the broad scope of topics related to Firebase Development. The first Firebase Camp will likely cover only a subset of these (e.g., Introductory Firebase) with others being scheduled on demand.
+This is an attempt to capture the broad topics and questions that developers have around Firebase development in a single curriculum page. I will update this list to reflect new and popular topics as the technology evolves.
 
- * _Objective_. Get a basic understanding of what Firebase is, and learn how to develop and deploy a real-time reactive application for modern users, on web and mobile platforms.
+Each question will (in due course) be linked to an article on this site that provides answers based on my understanding and exploration of that topic. I hope to keep those linked pages updated over time, so that this effectively provides an FAQ on that topic.
 
- * _Registration_. Want to be notified when Firebase Camp is scheduled? [Sign up here](http://bit.ly/firebase-camp-2017)
+**Objectives**:  Get foundational understanding of what Firebase is, and what tools and features it provides to developers of mobile and web applications. Then get a deeper understanding of specific features or limitations, that build upon this foundation. Finally, explore additional tools and features that can take your application to the next level in terms of increasing user adoption or generating revenue.
+
+ _Registration_. Want to be notified when Firebase Camp is scheduled? [Sign up here](http://bit.ly/firebase-camp-2017)
 
 
 
