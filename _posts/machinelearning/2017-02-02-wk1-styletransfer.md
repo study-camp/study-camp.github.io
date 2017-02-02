@@ -51,7 +51,7 @@ In this section we simply used pre-trained models (checkpoint files for six popu
 <a href="http://selfdrivingcars.mit.edu/deeptrafficjs/" class="btn">Project 2: Deep Traffic</a>
 
 <figure>
-    <a href="http://selfdrivingcars.mit.edu/deeptrafficjs/" class="image-popup"><img src="images/dlndf/deeptraffic.png" alt="image"></a>
+    <a href="http://selfdrivingcars.mit.edu/deeptrafficjs/" class="image-popup"><img src="/images/dlndf/deeptraffic.png" alt="image"></a>
     <figcaption>
         <a href="http://selfdrivingcars.mit.edu/deeptraffic/" title="Deep Traffic: A gamified simulation of typical highway traffic">Deep Traffic: A gamified simulation of typical highway traffic
         </a>
