@@ -14,10 +14,13 @@ share: true
 
 # Accountability: Progress Report (Wed, Feb 1)
 
-**TL;DR**
-I am a lifelong learner and autodidact currently invested in growing my understanding of machine learning and deep learning. So I enrolled in the Udacity Deep Learning Nanodegree Foundations, a 17-week curriculum that covers key topics and concepts. I'm using these posts to keep myself accountable by sharing my progress and goals for each week.
+> **TL;DR**
+> 
+> I am a lifelong learner and autodidact currently invested in growing my understanding of machine learning and deep learning. So I enrolled in the Udacity Deep Learning Nanodegree Foundations, a 17-week curriculum that covers key topics and concepts. I'm using these posts to keep myself accountable by sharing my progress and goals for each week.
+> 
+> [_You can read the longer version here_](http://study.camp/machinelearning/deep-learning-nd/)
 
-[_You can read the longer version here_](http://study.camp/machinelearning/deep-learning-nd/)
+
 
 ### Goals
 
