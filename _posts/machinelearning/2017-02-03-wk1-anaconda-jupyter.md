@@ -34,25 +34,19 @@ The lesson was primarily focused on getting Anaconda installed and getting a che
 
  * Distribution of libraries and software specifically built for data science.
  * Conda = package and environment manager 
- * Best practices = create a new enviornment for each chapter
- * Then use "conda install" to install dependencies (modules)
- * Use "conda list" to view all installed package in the environment
- * You can also export the environment (package listing) to a file. Share that with others to enable them to replicate your environment when running code.
 
-```
-Install Notes
-```
+> Install Notes
 
 I had an existing Anaconda install but decided to upgrade it after seeing the advice to move to _Python36_ given that is the default mandated for Jupyter. However, my upgrade attempt did open my eyes to some interesting issues, so thought I'd capture them.
 
-> 1. Available for Windows/MacOS/Linux. Installers here: [https://www.continuum.io/downloads](https://www.continuum.io/downloads)
-> 2. Complements existing Python dist on computer. _Default Python used by programs will be that installed by Anaconda_
-> 3. Udacity recommends: Python 3.5, 64-bit installer  
-> 4. I have: Anaconda 4.3.9 for OSX (Python 2.7, 64-bit) 
->     - I used ```conda update anaconda``` to update it from my previous 4.1.x version but it had conflicts with updating python versions
->     - Instead I had to delete/move the "anaconda" directory from my home and then reinstall a fresh version from the downloaded package 
-> 5. Now have: Anaconda 4.3.x on Python 3.6 _however this removes previously created environments so I need to redo those_
-> 6. Note: See the notes on "saving/loading" environments later -- for future purposes, I plan to adhere to this approach and _always_ keep a saved YAML file within my projects, to simplify these kind of restores
+ 1. Available for Windows/MacOS/Linux. Installers here: [https://www.continuum.io/downloads](https://www.continuum.io/downloads)
+ 2. Complements existing Python dist on computer. _Default Python used by programs will be that installed by Anaconda_
+ 3. Udacity recommends: Python 3.5, 64-bit installer  
+ 4. I have: Anaconda 4.3.9 for OSX (Python 2.7, 64-bit) 
+    * I used ```conda update anaconda``` to update it from my previous 4.1.x version but it had conflicts with updating python versions
+    * Instead I had to delete/move the "anaconda" directory from my home and then reinstall a fresh version from the downloaded package 
+ 5. Now have: Anaconda 4.3.x on Python 3.6 _however this removes previously created environments so I need to redo those_
+ 6. Note: See the notes on "saving/loading" environments later -- for future purposes, I plan to adhere to this approach and _always_ keep a saved YAML file within my projects, to simplify these kind of restores
 
 
 ```
