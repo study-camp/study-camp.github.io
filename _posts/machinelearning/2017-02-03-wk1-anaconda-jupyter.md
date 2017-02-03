@@ -1,0 +1,39 @@
+---
+layout: post
+title: "DLNDF: Applying Deep Learning "
+author: nitya_n
+modified:
+categories: machinelearning
+excerpt:
+tags: [deep-learning, nanodegree, dlndf, tools]
+image:
+  feature: color-flame.png
+comments: true
+share: true
+---
+
+# Accountability: Progress Report (Thu, Feb 2)
+
+> **TL;DR**
+> 
+> I am a lifelong learner and autodidact currently invested in growing my understanding of machine learning and deep learning. So I enrolled in the Udacity Deep Learning Nanodegree Foundations, a 17-week curriculum that covers key topics and concepts. I'm using these posts to keep myself accountable by sharing my progress and goals for each week.
+> 
+> [_You can read the longer version here_](http://study.camp/machinelearning/deep-learning-nd/)
+
+
+
+### Goals
+
+_Finish reviewing Anaconda and Jupyter lessons. Start watching the lessons on Regression_
+
+### Anaconda
+
+  * 
+
+### Jupyter
+
+
+
+### Fri Goals:
+
+_Finish watching the lessons (5) on Regression and (6) on Siraj's Neural Network_

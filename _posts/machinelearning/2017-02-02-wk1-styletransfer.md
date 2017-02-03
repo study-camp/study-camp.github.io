@@ -5,7 +5,7 @@ author: nitya_n
 modified:
 categories: machinelearning
 excerpt:
-tags: [machine-learning, deep-learning, tensorflow, nanodegree]
+tags: [deep-learning, nanodegree, dlndf]
 image:
   feature: color-flame.png
 comments: true
