@@ -30,16 +30,14 @@ _Finish reviewing Anaconda and Jupyter lessons. Start watching the lessons on Re
 
 The lesson was primarily focused on getting Anaconda installed and getting a cheat sheet for usage. I'll just put my cheatsheets here for reference.
 
-```
-What is Anaconda?
-```
+> What is Anaconda?
 
->  * Distribution of libraries and software specifically built for data science.
->  * Conda = package and environment manager 
->  * Best practices = create a new enviornment for each chapter
->  * Then use "conda install" to install dependencies (modules)
->  * Use "conda list" to view all installed package in the environment
->  * You can also export the environment (package listing) to a file. Share that with others to enable them to replicate your environment when running code.
+ * Distribution of libraries and software specifically built for data science.
+ * Conda = package and environment manager 
+ * Best practices = create a new enviornment for each chapter
+ * Then use "conda install" to install dependencies (modules)
+ * Use "conda list" to view all installed package in the environment
+ * You can also export the environment (package listing) to a file. Share that with others to enable them to replicate your environment when running code.
 
 ```
 Install Notes
