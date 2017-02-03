@@ -5,7 +5,7 @@ author: nitya_n
 modified:
 categories: machinelearning
 excerpt:
-tags: [deep-learning, nanodegree, dlndf, tools]
+tags: [deep-learning, nanodegree, dlndf, anaconda]
 image:
   feature: color-flame.png
 comments: true
@@ -21,11 +21,14 @@ share: true
 > [_You can read the longer version here_](http://study.camp/machinelearning/deep-learning-nd/)
 
 
+```
+TODAY
+```
+_Finish reviewing Anaconda and Jupyter lessons. Start watching the lessons on Regression_
 
-> **TODAY'S GOAL** _Finish reviewing Anaconda and Jupyter lessons. Start watching the lessons on Regression_
 
 
-## Anaconda
+## PART 1: Anaconda
 
 The lesson was primarily focused on getting Anaconda installed and getting a cheat sheet for usage. I'll just put my cheatsheets here for reference.
 
@@ -121,8 +124,7 @@ Environments created sandboxes where specific versions of software dependencies 
 4. Conda myths: [JVP article](https://jakevdp.github.io/blog/2016/08/25/conda-myths-and-misconceptions/)
 
 
-### Jupyter
-
-
-
-> **TOMORROW'S GOAL** _Finish watching the lessons (5) on Regression and (6) on Siraj's Neural Network_
+```
+TOMORROW:
+```
+_Finish reviewing Anaconda and Jupyter lessons. Start watching the lessons on Regression_
