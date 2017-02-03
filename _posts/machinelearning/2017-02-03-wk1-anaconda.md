@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DLNDF: Anaconda & Jupyter "
+title: "DLNDF: Using Anaconda "
 author: nitya_n
 modified:
 categories: machinelearning
@@ -22,10 +22,10 @@ share: true
 
 
 ```
-TODAY
+TODAY:
+Finish reviewing lessons (1) Anaconda and (2) Jupyter. 
+Start lesson (5) Regression
 ```
-_Finish reviewing Anaconda and Jupyter lessons. Start watching the lessons on Regression_
-
 
 
 ## PART 1: Anaconda
@@ -126,5 +126,6 @@ Environments created sandboxes where specific versions of software dependencies 
 
 ```
 TOMORROW:
+Finish reviewing lessons  (5) Regression and (6) Siraj's Neural Network 
 ```
-_Finish reviewing Anaconda and Jupyter lessons. Start watching the lessons on Regression_
+__
